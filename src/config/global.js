@@ -249,7 +249,7 @@ export default {
     {
       termino: 'Horma',
       significado:
-        'molde con la forma del pie que se usa en la fabricación de calzado para darle estructura y garantizar un ajuste adecuado. Puede estar hecha de madera, plástico o metal y varía según el tipo de calzado y su finalidad',
+        'molde con la forma del pie que se usa en la fabricación de calzado para darle estructura y garantizar un ajuste adecuado. Puede estar hecha de madera, plástico o metal y varía según el tipo de calzado y su finalidad.',
     },
   ],
   referencias: [
@@ -304,9 +304,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nathaly Tatiana Wilches Ayala',
-          cargo: 'Experta temática',
-          centro: 'Centro de Servicios Financieros - Regional Distrito Capital',
+          nombre: 'Elkin Darío Fontecha Pardo',
+          cargo: 'Experta temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paola Alexandra Moya',
