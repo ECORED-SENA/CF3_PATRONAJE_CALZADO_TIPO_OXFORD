@@ -97,7 +97,7 @@
             ul.lista-ul--color.mb-0
               li.d-flex
                 i.fas.fa-circle-check.bg-color-21
-                p.mb-0 Desde el punto de altura de talón, mida 20 mm sobre la línea de profundidad hacia adelante para definir la cabeza del talón.
+                p.mb-0 Desde el punto de altura del talón, mida 20 mm sobre la línea de profundidad hacia adelante para definir la cabeza del talón.
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-21
                 p.mb-0 Trace una línea perpendicular desde este punto hacia la línea de plantilla, estableciendo el cuello del talón.
@@ -179,7 +179,7 @@
               p.mb-0 Marque otro punto 10 mm adelante del punto máximo de la puntera.
             li.d-flex
               i.fas.fa-circle-check.bg-color-21
-              p.mb-0 Una ambos puntos con una línea recta, extendiéndola hasta la línea de montaje.
+              p.mb-0 Une ambos puntos con una línea recta, extendiéndola hasta la línea de montaje.
     
     p.mb-4 Doble una cartulina, coloque sobre ella el nuevo eje de la puntera, dibuje el contorno de la pieza y recórtela cuidadosamente. Si la puntera se pliega, añada un aumento de 5 mm en la parte superior.
 

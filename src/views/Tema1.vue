@@ -118,7 +118,7 @@
           h5 Figura 7.
           span Cálculo de la altura del talón
         figure
-          img(src="@/assets/curso/temas/tema1/13.png", data-aos="zoom-in")
+          img(src="@/assets/curso/temas/tema1/13.png", data-aos="zoom-in", alt="Representación del cálculo de la altura del talón a partir de la línea de plantilla.")
       .col-lg-6.order-1.mb-3.mb-lg-0
         .bg-color-2.p-4.h-100(data-aos="fade-left")
           p Este punto se obtiene midiendo desde la línea de plantilla hacia la parte superior, específicamente sobre el eje del talón. La altura se calcula sumando una medida fija al número de la horma, según el tipo de calzado:
@@ -164,18 +164,18 @@
           ul.lista-ul--color
             li.d-flex
               i.fas.fa-circle-check.bg-color-21
-              p.mb-0 28 milímetros si se trata de una horma de dama o niño
+              p.mb-0 28 milímetros si se trata de una horma de dama o niño.
             li.d-flex
               i.fas.fa-circle-check.bg-color-21
-              p.mb-0 30 milímetros si es una horma de hombre
+              p.mb-0 30 milímetros si es una horma de hombre.
           h5.mb-3 Ejemplo:
           ul.lista-ul--color
             li.d-flex
               i.fas.fa-circle-check.bg-color-21
-              p.mb-0 Horma n.º 40 + 30 mm = 70 mm
+              p.mb-0 Horma n.º 40 + 30 mm = 70 mm.
             li.d-flex
               i.fas.fa-circle-check.bg-color-21
-              p.mb-0 Horma n.º 40 + 28 mm = 68 mm
+              p.mb-0 Horma n.º 40 + 28 mm = 68 mm.
           p Así se establece la ubicación del punto de entrada, como se indica en la siguiente imagen.
     
     .titulo-tres.mb-4(data-aos="flip-up").mb-4.mt-5

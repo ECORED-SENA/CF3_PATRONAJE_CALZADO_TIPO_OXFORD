@@ -14,6 +14,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Los moldes o patrones son plantillas planas que representan las distintas piezas que conforman la capellada del calzado. A partir de ellos se realiza el corte y el ensamblaje de los materiales que darán forma al producto final. Son fundamentales para asegurar precisión, simetría, confort y diseño en cada referencia de calzado.
           br
+          br
           | El desarrollo de los moldes parte del perfil de la horma, obtenido mediante técnicas como el enmascarado, el trazado de líneas guía y la creación de una máscara compensada. Con base en esta plantilla, se diseñan y trazan las piezas que luego se escalarán de acuerdo con las tallas requeridas.
     
     p.mb-4 Entre los principales tipos de moldes utilizados en la fabricación de calzado se encuentran:
@@ -43,7 +44,7 @@
                   img(src='@/assets/curso/temas/tema4/5.svg', alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
                   .bg-color-8.d-inline-block.px-2.py-1.mb-3
                     h4.text-center.mb-0.text-color-black #[strong Moldes de forro y refuerzo]
-                  p.text-center Corresponden a las piezas internas que aportan estructura, confort y durabilidad
+                  p.text-center Corresponden a las piezas internas que aportan estructura, confort y durabilidad.
 
                 .tarjeta.bg-color-white.p-4.shadow-top-left-right.text-center
                   img(src='@/assets/curso/temas/tema4/6.svg', alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
@@ -60,9 +61,7 @@
           .col-lg-auto
             img(src="@/assets/curso/temas/tema4/8.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0
-              strong ¿Por qué es importante este tema?
-              | La creatividad es una herramienta fundamental en cualquier ámbito profesional. Ya sea que se dediquen al marketing, al diseño, a la programación o a cualquier otra área, la capacidad de generar ideas nuevas y originales, le permitirá destacar y alcanzar el éxito.
+            p.mb-0 #[strong ¿Por qué es importante este tema?] La creatividad es una herramienta fundamental en cualquier ámbito profesional. Ya sea que se dediquen al marketing, al diseño, a la programación o a cualquier otra área, la capacidad de generar ideas nuevas y originales les permitirá destacar y alcanzar el éxito.
 
 
 </template>

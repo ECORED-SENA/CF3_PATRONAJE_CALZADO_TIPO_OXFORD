@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1 Elaborar moldes para el modelo tipo oxford con bigotera
+      h1 Elaborar moldes para el modelo tipo Oxford con bigotera
     
     p.mb-4 El calzado Oxford con bigotera, también conocido como Oxford con puntera W, es una variante del clásico Oxford que incorpora una pieza adicional denominada bigotera, la cual influye tanto en su estética como en su funcionalidad. 
 

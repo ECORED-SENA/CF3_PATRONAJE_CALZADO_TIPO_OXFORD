@@ -27,7 +27,7 @@
             .row.pt-lg-4.align-items-center
               .col-lg-7.mb-4.mb-lg-0
                 h5 Superposición de máscaras externa e interna
-                p Una vez se han obtenido ambas máscaras, estas se superponen procurando que coincidan la altura del talón y la línea de profundidad, lo que permite asegurar la simetría y precisión del molde.   
+                p Una vez que se han obtenido ambas máscaras, estas se superponen procurando que coincidan la altura del talón y la línea de profundidad, lo que permite asegurar la simetría y precisión del molde.   
               .col-lg-5
                 img(src='@/assets/curso/temas/tema2/3.png', alt="Esquema de superposición de máscaras externa e interna para molde de calzado, donde se alinean la altura del talón y la línea de profundidad ").mx-auto
             .row.pt-lg-4.align-items-center

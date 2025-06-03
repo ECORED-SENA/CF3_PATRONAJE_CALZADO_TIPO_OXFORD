@@ -80,7 +80,7 @@
 
    
     #t_8_3.titulo-segundo.color-acento-contenido
-      h2 8.3. Importancia de la maqueta
+      h2 8.3 Importancia de la maqueta
 
     .row.align-items-center.px-4.px-md-5.py-4.bg-color-16.tarjeta
       .col-lg-auto

@@ -27,7 +27,8 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto: '¿Qué componente es fundamental en la construcción del molde de calzado Oxford?',
+          texto:
+            '¿Qué componente es fundamental en la construcción del molde de calzado Oxford?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -41,7 +42,8 @@ export default {
         },
         {
           id: 2,
-          texto: '¿Cómo se denomina el primer patrón que se genera a partir de la máscara compensada?',
+          texto:
+            '¿Cómo se denomina el primer patrón que se genera a partir de la máscara compensada?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -55,7 +57,8 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Qué variación del Oxford incorpora una puntera decorativa en forma de "W"?',
+          texto:
+            '¿Qué variación del Oxford incorpora una puntera decorativa en forma de "W"?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -69,7 +72,8 @@ export default {
         },
         {
           id: 4,
-          texto: '¿Qué medida se suma al número de horma para obtener la altura del talón en calzado de hombre?',
+          texto:
+            '¿Qué medida se suma al número de horma para obtener la altura del talón en calzado de hombre?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -83,7 +87,8 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué pieza se construye a partir de dos partes simétricas recortadas de la máscara compensada?',
+          texto:
+            '¿Qué pieza se construye a partir de dos partes simétricas recortadas de la máscara compensada?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -101,17 +106,34 @@ export default {
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Incluye brogueado decorativo.', esCorrecta: false },
-            { id: 'b', texto: 'Tiene múltiples piezas unidas por costuras visibles.', esCorrecta: false },
-            { id: 'c', texto: 'Presenta un diseño limpio y sin decoraciones.', esCorrecta: true },
-            { id: 'd', texto: 'Posee perforaciones en toda la estructura.', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Incluye brogueado decorativo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Tiene múltiples piezas unidas por costuras visibles.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Presenta un diseño limpio y sin decoraciones.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Posee perforaciones en toda la estructura.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 7,
-          texto: '¿Qué material se recomienda para elaborar maquetas de comprobación en una etapa preliminar?',
+          texto:
+            '¿Qué material se recomienda para elaborar maquetas de comprobación en una etapa preliminar?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -125,12 +147,17 @@ export default {
         },
         {
           id: 8,
-          texto: '¿En qué proceso se realiza un promedio entre las curvas de las máscaras interna y externa?',
+          texto:
+            '¿En qué proceso se realiza un promedio entre las curvas de las máscaras interna y externa?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Montaje del calzado.', esCorrecta: false },
-            { id: 'b', texto: 'Obtención de la máscara compensada.', esCorrecta: true },
+            {
+              id: 'b',
+              texto: 'Obtención de la máscara compensada.',
+              esCorrecta: true,
+            },
             { id: 'c', texto: 'Dibujo de la bigotera.', esCorrecta: false },
             { id: 'd', texto: 'Ajuste de la capellada.', esCorrecta: false },
           ],
@@ -139,7 +166,8 @@ export default {
         },
         {
           id: 9,
-          texto: '¿Qué variación del calzado Oxford es ideal para eventos de etiqueta?',
+          texto:
+            '¿Qué variación del calzado Oxford es ideal para eventos de etiqueta?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -153,21 +181,35 @@ export default {
         },
         {
           id: 10,
-          texto: '¿Qué función cumple principalmente la maqueta de comprobación?',
+          texto:
+            '¿Qué función cumple principalmente la maqueta de comprobación?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verificar ajuste y corregir inconsistencias.', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Verificar ajuste y corregir inconsistencias.',
+              esCorrecta: true,
+            },
             { id: 'b', texto: 'Fabricar el zapato final.', esCorrecta: false },
-            { id: 'c', texto: 'Diseñar nuevos modelos de calzado.', esCorrecta: false },
-            { id: 'd', texto: 'Reducir el costo del material.', esCorrecta: false },
+            {
+              id: 'c',
+              texto: 'Diseñar nuevos modelos de calzado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Reducir el costo del material.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 11,
-          texto: 'El patronaje de calzado Oxford no requiere marcar líneas guía en la horma.',
+          texto:
+            'El patronaje de calzado Oxford no requiere marcar líneas guía en la horma.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -179,7 +221,8 @@ export default {
         },
         {
           id: 12,
-          texto: 'La línea de profundidad conecta el punto de atraque con el punto de altura del talón.',
+          texto:
+            'La línea de profundidad conecta el punto de atraque con el punto de altura del talón.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -191,7 +234,8 @@ export default {
         },
         {
           id: 13,
-          texto: 'La bigotera nunca debe cruzar el punto metatarsiano al ser diseñada.',
+          texto:
+            'La bigotera nunca debe cruzar el punto metatarsiano al ser diseñada.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -203,7 +247,8 @@ export default {
         },
         {
           id: 14,
-          texto: 'El molde de forro para Oxford se obtiene aplicando el mismo giro que el molde de cuero.',
+          texto:
+            'El molde de forro para Oxford se obtiene aplicando el mismo giro que el molde de cuero.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -215,7 +260,8 @@ export default {
         },
         {
           id: 15,
-          texto: 'La reseña histórica del Oxford señala su origen en Estados Unidos.',
+          texto:
+            'La reseña histórica del Oxford señala su origen en Estados Unidos.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

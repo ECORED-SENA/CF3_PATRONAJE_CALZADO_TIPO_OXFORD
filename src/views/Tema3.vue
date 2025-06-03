@@ -42,7 +42,7 @@
               p.mb-0 Actualmente, el Oxford es considerado un clásico atemporal dentro del diseño de calzado. Su equilibrio entre tradición, sofisticación y adaptabilidad lo convierte en una pieza clave en la confección de calzado de vestir, manteniéndose vigente en la moda contemporánea.
 
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2 Variaciones del Modelo Oxford
+      h2 3.2 Variaciones del modelo Oxford
     
     p.mb-4 El modelo Oxford, reconocido por su elegancia y diseño clásico con cordones cerrados, ha evolucionado a lo largo del tiempo, dando origen a diferentes versiones que permiten su uso en contextos formales, semiformal e incluso casual. A continuación, se describen las principales variaciones del calzado Oxford:
 

@@ -221,7 +221,7 @@
     div.row.justify-content-center.align-items-stretch.mb-5
       div.col-lg-3.mb-4(data-aos="zoom-in-up")
         div.bg-color-24.tarjeta.box-shadow.px-4.py-5.h-100
-          p.mb-0.text-center El talón debe ubicarse sobre la línea metatarsiana
+          p.mb-0.text-center El talón debe ubicarse sobre la línea metatarsiana.
     
       div.col-lg-4.mb-4(data-aos="zoom-in-up")
         div.bg-color-24.tarjeta.box-shadow.px-4.py-5.h-100
@@ -291,7 +291,7 @@
           .col-lg-5.order-2
             .titulo-sexto.color-acento-contenido
               h5 Figura 27.
-              span Giro Mascara Dibujo Parte posterior
+              span Giro mascara dibujo parte posterior
             figure
               img(src="@/assets/curso/temas/tema5/18.png", data-aos="zoom-in", alt="Imagen inicial del giro de la máscara para el desarrollo del molde de forro, mostrando el trazo de la parte posterior desde el punto de calzada hasta el metatarsiano. ")
           .col-lg-7.order-1.mb-3.mb-lg-0
