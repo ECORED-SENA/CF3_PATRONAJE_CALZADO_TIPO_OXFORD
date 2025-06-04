@@ -157,7 +157,7 @@
           h5 Figura 9.
           span Punto de entrada
         figure
-          img(src="@/assets/curso/temas/tema1/15.png", data-aos="zoom-in")
+          img(src="@/assets/curso/temas/tema1/15.png", data-aos="zoom-in", alt="Ubicación del punto de entrada determinado a partir del punto de calzada.")
       .col-lg-6.order-1.mb-3.mb-lg-0
         .bg-color-2.p-4.h-100(data-aos="fade-left")
           p Este punto se determina midiendo desde el punto de calzada hacia arriba una distancia equivalente al número de la horma, sumando:

@@ -245,7 +245,7 @@
                 p.mb-0 Marque con un portaminas las líneas de la capellada y recorte cuidadosamente con una cuchilla.
           .col-lg-6.order-1.d-none.d-md-block
             figure.p-4
-              img(src='@/assets/curso/temas/tema5/15.png', alt='Máquina de codo', style='max-width: 520px;')
+              img(src='@/assets/curso/temas/tema5/15.png', alt='Esquema de un diseño de zapato Oxford que incluye el trazado de las piezas en la horma y el despiece de la capellada en vista plana.', style='max-width: 520px;')
 
       .p-3.p-md-4(titulo="Molde de cordonera")
         .row.align-items-center
@@ -260,7 +260,7 @@
                 p.mb-0 Marque las líneas que conforman la cordonera y recorte con una cuchilla.
           .col-lg-6.order-1.d-none.d-md-block
             figure.p-4
-              img(src='@/assets/curso/temas/tema5/16.png', alt='Máquina de columna', style='max-width: 520px;')
+              img(src='@/assets/curso/temas/tema5/16.png', alt='Trazado técnico de un zapato Oxford, mostrando el diseño sobre la horma y el despiece de la capellada, con indicación de una medida de ajuste de 10 mm.', style='max-width: 520px;')
 
       .p-3.p-md-4(titulo="Molde de lengüeta")
         .row.align-items-center
@@ -275,7 +275,7 @@
                 p.mb-0 Marque las líneas correspondientes y ajuste la parte inferior con un arco.
           .col-lg-6.order-1.d-none.d-md-block
             figure.p-4
-              img(src='@/assets/curso/temas/tema5/17.png', alt='Máquina de doble aguja', style='max-width: 520px;')
+              img(src='@/assets/curso/temas/tema5/17.png', alt='Vista del despiece de dos piezas de talón para calzado Oxford, con líneas de simetría y ajustes laterales indicados.', style='max-width: 520px;')
               figcaption.text-center Nota: si alguna pieza requiere aumento de dobla, recuerde que este debe ser de 4 a 5 mm
     
     separador
@@ -420,7 +420,7 @@
           h5 Figura 34.
           span Molde forro de talón
         figure
-          img(src="@/assets/curso/temas/tema5/26.png", data-aos="zoom-in", alt="Representación de la ubicación del nuevo punto de atraque sobre la máscara compensada, ajustado 5 mm hacia el punto de calzada para la elaboración del molde tipo Oxford liso. ")
+          img(src="@/assets/curso/temas/tema5/26.png", data-aos="zoom-in", alt="Molde finalizado del forro de talón, incorporando los aumentos de montaje y ajustes para la técnica de ensamblaje. ")
     
     .titulo-tres.mb-4(data-aos="flip-up").mb-4.mt-5
       h4(data-aos="fade-up") Molde forro lengüeta
