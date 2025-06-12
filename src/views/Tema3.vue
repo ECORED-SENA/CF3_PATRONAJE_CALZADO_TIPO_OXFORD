@@ -31,7 +31,7 @@
             p.mb-5(data-aos="fade-left") El calzado Oxford tiene sus orígenes en las Islas Británicas, particularmente en Escocia e Irlanda, donde existía un modelo similar conocido como "Balmoral". Sin embargo, fue en Inglaterra donde adquirió notoriedad y su nombre actual, gracias a los estudiantes de la Universidad de Oxford. A mediados del siglo XIX, estos jóvenes comenzaron a usar este estilo como una alternativa más cómoda y moderna a las tradicionales botas altas, marcando así el inicio de su popularidad.
         
             .bg-color-7.p-4(data-aos="fade-left")
-              p.mb-0 Inicialmente considerado un zapato informal, el Oxford fue evolucionando hasta convertirse en un símbolo de elegancia y distinción, especialmente en el vestir masculino. Su característica principal —el sistema de cordones cerrados— le confiere una apariencia ajustada, sobria y refinada, diferenciándolo de otros estilos de calzado.
+              p.mb-0 Inicialmente considerado un zapato informal, el Oxford fue evolucionando hasta convertirse en un símbolo de elegancia y distinción, especialmente en el vestir masculino. Su característica principal — el sistema de cordones cerrados — le confiere una apariencia ajustada, sobria y refinada, diferenciándolo de otros estilos de calzado.
         .row.mb-5
           .col-lg-4.mb-3.mb-lg-0
               img(src="@/assets/curso/temas/tema3/3.png", data-aos="zoom-in")
