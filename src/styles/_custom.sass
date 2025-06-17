@@ -121,7 +121,7 @@ figcaption
   &-1
     background-color: #ACBAAE !important
   &-2
-    background-color: #EBEEEB !important
+    background-color: #FBE7B9 !important
   &-3
     background-color: #F6E15C !important
   &-4
@@ -131,9 +131,11 @@ figcaption
   &-6
     background-color: #EBEBEB !important
   &-7
-    background-color: #D8CABD !important
+    background-color: #F4C251 !important
   &-8
-    background-color: #EFE9E4 !important
+    background-color: #81381D !important
+    p
+      color: white !important
   &-9
     background-color: #CDCDCD !important
   &-10
@@ -149,13 +151,13 @@ figcaption
   &-15
     background-color: #D5DCD7
   &-16
-    background-color: #D5DCD6
+    background-color: #E3B9A9
   &-17
     color: #2F5235 !important
   &-18
     background-color: #F7F4F2
   &-19
-    background-color: #FCF5CC
+    background-color: #DAF6D7
   &-20
     background-color: #EDF2F4
   &-21
@@ -163,20 +165,29 @@ figcaption
   &-22
     background: linear-gradient(180deg,rgba(255, 255, 255, 1) 0%, rgba(242, 234, 228, 1) 30%, rgba(242, 234, 228, 1) 70%, rgba(255, 255, 255, 1) 100%)
   &-23
-    background-color: #EFEAE5
+    background-color: #FBE7B9
   &-24
     background-color: #E1E8EC
   &-25
     background-color: #ABB9AE
   &-26
-    background-color: #D8CABD
+    background-color: #F4C251
     display: inline-block
+    border-radius: 10px
   &-27
     background-color: #F9EC9B
   &-28
     background-color: #E8ECE9
   &-29
     background-color: #FCF7D5
+  &-30
+    background-color: #F1DCD4
+  &-31
+    background-color: #7DE391
+  &-32
+    background-color: #81381D
+    p
+      color: white !important
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -286,6 +297,9 @@ $custom-card-img-height: 205px
       height: 13px
 
 
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url('../assets/bullets/arrow.svg')
+
 
 // Carousel Styles
 .carousel-bg .fas
@@ -297,8 +311,8 @@ $custom-card-img-height: 205px
    height: 40px
    background-color: $color-acento-botones
    border-radius: 50%
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
-   color: black
+   box-shadow: 0 2px 4px #0000001a
+   color: #fff
    font-size: 16px
 
 
@@ -335,7 +349,7 @@ $custom-card-img-height: 205px
   background-color: #FFF !important
 
 .tabs-b__content-item
-  background-color: #FDF8E5 !important
+  background-color: #F1FCF3 !important
 
 
 .tabs-a__tab
@@ -356,7 +370,7 @@ $custom-card-img-height: 205px
 .tabs-c__header
   margin-bottom: 0px !important
 .tabs-c__content-item
-  background-color: #F5F5F5 !important
+  background-color: #F1FCF3 !important
 
 ///////// Card hover --------------------------------------
 .crd_hover_txt
@@ -382,7 +396,7 @@ $custom-card-img-height: 205px
       p
         font-size: 0.85em
 .tarjeta.acordeonB
-  background-color: #D8CABD !important
+  background-color: #FBE7B9 !important
 
 .acordion__accion__btn--a.acordeonB
   background-color: $color-acento-botones !important
@@ -390,9 +404,15 @@ $custom-card-img-height: 205px
     color: black !important
 
 .acordion__activo.acordeonB
-  background-color: #FBF3BE !important
+  background-color: #DAF6D7 !important
 
 
 .tabs-c__content-item
-  background-color: #FDFAE4 !important
+  background-color: #F1FCF3 !important
 
+.barra-avance__boton--regresar
+  span
+    color: white !important
+
+.acordion__accion__btn--a i
+  color: white !important

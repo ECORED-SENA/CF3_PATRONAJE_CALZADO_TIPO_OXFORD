@@ -25,10 +25,10 @@
         p.mb-4 La maqueta cumple varias funciones esenciales dentro del proceso de patronaje:
 
         .row.align-items-start
-          .col-lg-3.mb-3.mb-lg-0
+          .col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/temas/tema8/2.png", alt="").mb-4.mb-lg-0
-          .col-lg-9
+          .col-lg-8
             AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonB")
               .div(titulo="Verificar el ajuste")
                 p Permite comprobar si las piezas del molde encajan correctamente sobre la horma, identificando tensiones, pliegues o sobrantes.
@@ -82,7 +82,7 @@
     #t_8_3.titulo-segundo.color-acento-contenido
       h2 8.3 Importancia de la maqueta
 
-    .row.align-items-center.px-4.px-md-5.py-4.bg-color-16.tarjeta
+    .row.align-items-center.px-4.px-md-5.py-4.bg-color-32.tarjeta
       .col-lg-auto
         img(src="@/assets/curso/temas/tema8/7.svg", style="max-width: 90px").mx-auto
       .col-lg

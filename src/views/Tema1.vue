@@ -222,6 +222,10 @@
         figure
           img(src="@/assets/curso/temas/tema1/19.png", data-aos="zoom-in", alt="Indicación de la línea de chapeta o vena sobre la parte frontal de la horma.  ")
 
+
+    .titulo-tres.mb-4(data-aos="flip-up").mb-4.mt-5
+      h4(data-aos="fade-up") Punto de entrada
+
     .row.mb-5
       .col-lg-3.order-2
         figure

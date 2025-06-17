@@ -48,7 +48,7 @@
       .px-4.px-md-5.pb-md-3
         .row.justify-content-center
           .col-lg-10
-            .bg-color-7.mb-5(data-aos="fade-up")
+            .bg-color-2.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
                   figure
@@ -87,7 +87,7 @@
     
     p.mb-4 La construcción del talón comprende los siguientes pasos:
 
-    .bg-color-25.mb-5(data-aos="fade-up")
+    .bg-color-16.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
         .col-lg-auto.mb-3.mb-lg-0.order-2
           figure
@@ -168,7 +168,7 @@
         figure
           img(src="@/assets/curso/temas/tema6/11.png", data-aos="zoom-in", alt="Trazado de los ejes de la puntera, ubicando los puntos de referencia para el corte y separación precisa de esta pieza del molde principal. ")
       .col-lg-7.order-1.mb-3.mb-lg-0
-        .bg-color-16.p-5.h-100(data-aos="fade-left")
+        .bg-color-19.p-5.h-100(data-aos="fade-left")
           p Para construir el molde de la puntera:
           ul.lista-ul--color
             li.d-flex
@@ -252,7 +252,7 @@
       .px-4.px-md-5.pb-md-3
         .row.justify-content-center
           .col-lg-10
-            .bg-color-25.mb-5(data-aos="fade-up")
+            .bg-color-16.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
                   figure
@@ -283,7 +283,7 @@
     
     .row.justify-content-center
       .col-lg-10
-        .bg-color-24.mb-5(data-aos="fade-left")
+        .bg-color-19.mb-5(data-aos="fade-left")
           .row.justify-content-center.align-items-center
             .col-lg-auto.mb-3.mb-lg-0
               figure

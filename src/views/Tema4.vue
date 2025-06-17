@@ -7,7 +7,7 @@
         span 4
       h1 Moldes, conceptos y tipos
     
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/1.png')})`}"
       )
@@ -30,30 +30,30 @@
               SlyderF.mb-5(columnas="col-lg-6")(data-aos="zoom-in-up")
                 .tarjeta.bg-color-white.p-4.shadow-top-left-right.text-center
                   img(src='@/assets/curso/temas/tema4/3.svg', style="max-width: 89px", alt='').mx-auto.mb-4
-                  .bg-color-8.d-inline-block.px-2.py-1.mb-3
+                  .d-inline-block.px-2.py-1.mb-3
                     h4.text-center.mb-0.text-color-black #[strong Moldes base o patrón]
                   p.text-center Definen la estructura del modelo y sirven como referencia para generar variantes.
 
                 .tarjeta.bg-color-white.p-4.shadow-top-left-right.text-center
                   img(src='@/assets/curso/temas/tema4/4.svg', alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
-                  .bg-color-8.d-inline-block.px-2.py-1.mb-3
+                  .d-inline-block.px-2.py-1.mb-3
                     h4.text-center.mb-0.text-color-black #[strong Moldes de corte]
                   p.text-center Se utilizan para cortar los materiales definitivos que conforman la capellada.
 
                 .tarjeta.bg-color-white.p-4.shadow-top-left-right.text-center
                   img(src='@/assets/curso/temas/tema4/5.svg', alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
-                  .bg-color-8.d-inline-block.px-2.py-1.mb-3
+                  .d-inline-block.px-2.py-1.mb-3
                     h4.text-center.mb-0.text-color-black #[strong Moldes de forro y refuerzo]
                   p.text-center Corresponden a las piezas internas que aportan estructura, confort y durabilidad.
 
                 .tarjeta.bg-color-white.p-4.shadow-top-left-right.text-center
                   img(src='@/assets/curso/temas/tema4/6.svg', alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
-                  .bg-color-8.d-inline-block.px-2.py-1.mb-3
+                  .d-inline-block.px-2.py-1.mb-3
                     h4.text-center.mb-0.text-color-black #[strong Moldes de montaje o plantillas de armado]
                   p.text-center Guían el proceso de ensamblaje del calzado.
                 .tarjeta.bg-color-white.p-4.shadow-top-left-right.text-center
                   img(src='@/assets/curso/temas/tema4/7.svg', alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
-                  .bg-color-8.d-inline-block.px-2.py-1.mb-3
+                  .d-inline-block.px-2.py-1.mb-3
                     h4.text-center.mb-0.text-color-black #[strong Moldes de rayado o marcación]
                   p.text-center Permiten señalar sobre el material las líneas de doblez, costuras, piquetes, centros y otras marcas técnicas necesarias para un ensamblaje preciso.
    

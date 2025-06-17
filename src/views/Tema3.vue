@@ -38,7 +38,7 @@
           .col-lg-8
             p.mb-5(data-aos="fade-left") Con el paso de los años, este modelo se ha adaptado a nuevas tendencias y contextos. Aunque su estructura básica se ha mantenido, han surgido diversas variaciones que han permitido su uso en escenarios formales, semiformal e incluso casual. Asimismo, su diseño ha sido adoptado en la moda femenina, ampliando su alcance y versatilidad.
         
-            .bg-color-16.p-4(data-aos="fade-left")
+            .bg-color-19.p-4(data-aos="fade-left")
               p.mb-0 Actualmente, el Oxford es considerado un clásico atemporal dentro del diseño de calzado. Su equilibrio entre tradición, sofisticación y adaptabilidad lo convierte en una pieza clave en la confección de calzado de vestir, manteniéndose vigente en la moda contemporánea.
 
     #t_3_2.titulo-segundo.color-acento-contenido

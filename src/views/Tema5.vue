@@ -73,7 +73,7 @@
 
     .bg-full-width-2.bg-color-22
       .px-4.px-md-5.pb-md-3
-        .bg-color-23.p-4.h-100.mb-5(data-aos="fade-left")
+        .bg-color-19.p-4.h-100.mb-5(data-aos="fade-left")
           ul.lista-ul--color.mb-0
             li.d-flex
               i.fas.fa-circle-check.bg-color-21
@@ -90,7 +90,7 @@
             figure
               img(src="@/assets/curso/temas/tema5/5.png", data-aos="zoom-in", alt="Vista del procedimiento de giro de la máscara apoyándose en el punto de calzada para adelantar el metatarsiano, realizando el ajuste de 3 mm sobre el molde patrón.  ")
         
-        .bg-color-23.p-4.h-100.mb-5(data-aos="fade-left")
+        .bg-color-19.p-4.h-100.mb-5(data-aos="fade-left")
           ul.lista-ul--color.mb-0
             li.d-flex
               i.fas.fa-circle-check.bg-color-21
@@ -115,19 +115,19 @@
       .px-4.px-md-5.pb-md-3
         div.row.justify-content-center.align-items-stretch.mb-5
           div.col-lg-4.mb-4(data-aos="zoom-in-up")
-            div.bg-color-24.tarjeta.box-shadow.px-4.py-5.h-100
+            div.bg-color-16.tarjeta.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/temas/tema5/7.svg" alt="" style="width: 90px")
               p.mb-0.text-center Prolongue la línea de capellada 3 mm hacia atrás desde el punto de calzada.
 
         
           div.col-lg-4.mb-4(data-aos="zoom-in-up")
-            div.bg-color-24.tarjeta.box-shadow.px-4.py-5.h-100
+            div.bg-color-16.tarjeta.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/temas/tema5/8.svg" alt="" style="width: 90px")
               p.mb-0.text-center Desde ese nuevo punto, dibuje una línea recta hasta el punto medio de la parte superior de la línea metatarsiana.
 
         
           div.col-lg-4.mb-4(data-aos="zoom-in-up")
-            div.bg-color-24.tarjeta.box-shadow.px-4.py-5.h-100
+            div.bg-color-16.tarjeta.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(src="@/assets/curso/temas/tema5/9.svg" alt="" style="width: 90px")
               p.mb-0.text-center Trace una curva descendente hacia la línea de profundidad y finalice suavemente en el punto de tacón, formando la boca del talón.
 
@@ -141,11 +141,11 @@
             figure
               img(src="@/assets/curso/temas/tema5/10.png", data-aos="zoom-in", alt="Trazado de la construcción de la capellada sobre el molde patrón del Oxford liso, indicando las líneas de corte y ensamblaje principales. ")
           .col-lg-6
-            .bg-color-16.p-5(data-aos="fade-left")
+            .bg-color-19.p-5(data-aos="fade-left")
               p.mb-0 El talón se inicia en el eje del empeine, desde el punto de calzada hasta el punto de entrada. Luego, trace una curva suave que descienda por la línea de entrada hasta el punto medio de su parte superior, y posteriormente conecte con la línea de profundidad. Realice el ajuste de 2 mm en la parte posterior del talón, como se hizo para el modelo Oxford.
         .row.justify-content-center
           .col-lg-10
-            .bg-color-7.mb-5(data-aos="fade-up")
+            .bg-color-23.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
                   figure
@@ -179,7 +179,7 @@
       .px-4.px-md-5.pb-md-3
         .row.justify-content-center
           .col-lg-10
-            .bg-color-25.mb-5(data-aos="fade-up")
+            .bg-color-19.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0.order-2
                   figure
@@ -220,15 +220,15 @@
 
     div.row.justify-content-center.align-items-stretch.mb-5
       div.col-lg-3.mb-4(data-aos="zoom-in-up")
-        div.bg-color-24.tarjeta.box-shadow.px-4.py-5.h-100
+        div.bg-color-23.tarjeta.box-shadow.px-4.py-5.h-100
           p.mb-0.text-center El talón debe ubicarse sobre la línea metatarsiana.
     
       div.col-lg-4.mb-4(data-aos="zoom-in-up")
-        div.bg-color-24.tarjeta.box-shadow.px-4.py-5.h-100
+        div.bg-color-23.tarjeta.box-shadow.px-4.py-5.h-100
           p.mb-0.text-center La capellada debe posicionarse sobre el punto ajustado de 3 mm.
     
       div.col-lg-3.mb-4(data-aos="zoom-in-up")
-        div.bg-color-24.tarjeta.box-shadow.px-4.py-5.h-100
+        div.bg-color-23.tarjeta.box-shadow.px-4.py-5.h-100
           p.mb-0.text-center Realice el proceso de calado.
 
     TabsC.color-acento-contenido.mb-5
@@ -295,7 +295,7 @@
             figure
               img(src="@/assets/curso/temas/tema5/18.png", data-aos="zoom-in", alt="Imagen inicial del giro de la máscara para el desarrollo del molde de forro, mostrando el trazo de la parte posterior desde el punto de calzada hasta el metatarsiano. ")
           .col-lg-7.order-1.mb-3.mb-lg-0
-            .bg-color-16.p-5.h-100(data-aos="fade-left")
+            .bg-color-23.p-5.h-100(data-aos="fade-left")
               ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-circle-check.bg-color-21
@@ -327,7 +327,7 @@
             figure
               img(src="@/assets/curso/temas/tema5/20.png", data-aos="zoom-in", alt="Vista general de la máscara completamente girada para el forro, lista para perfilar las piezas interiores del calzado.  ")      
     
-    div.bg-color-26.p-3.tarjeta.mb-5
+    div.bg-color-26.p-3.mb-5
       h5.mb-0 Molde forro capellada
     
     p.mb-4 Para la construcción del molde de forro de la capellada, se deben seguir los siguientes pasos:
@@ -342,7 +342,7 @@
             figure
               img(src="@/assets/curso/temas/tema5/21.png", data-aos="zoom-in", alt="Identificación del primer punto de referencia para trazar la boca del forro de la capellada, señalando su desplazamiento respecto al punto de calzada. ")
           .col-lg-7.order-1.mb-3.mb-lg-0
-            .bg-color-16.p-5.h-100(data-aos="fade-left")
+            .bg-color-30.p-5.h-100(data-aos="fade-left")
               ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-circle-check.bg-color-21
@@ -376,7 +376,7 @@
     p.mb-4 Para elaborar el molde de forro del talón, siga los siguientes pasos:
 
    
-    .bg-color-27.mb-5(data-aos="fade-up")
+    .bg-color-19.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
         .col-lg-auto.mb-3.mb-lg-0.order-2
           figure
@@ -404,7 +404,7 @@
         figure
           img(src="@/assets/curso/temas/tema5/25.png", data-aos="zoom-in", alt="TSecuencia de pasos para obtener el molde de forro del talón, partiendo de la unión del eje de la capellada y ajustando las curvaturas superior e inferior. ")
       .col-lg-7
-        .bg-color-16.p-5(data-aos="fade-left")
+        .bg-color-23.p-5(data-aos="fade-left")
           p Nota: después de obtener el molde del forro del talón:
           ul.lista-ul--color.mb-0
             li.d-flex

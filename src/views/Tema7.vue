@@ -14,7 +14,7 @@
         figure
           img(src="@/assets/curso/temas/tema7/1.png", data-aos="zoom-in", alt="")
       .col-lg-7.order-1.mb-3.mb-lg-0
-        .bg-color-28.tarjeta.p-4.h-100(data-aos="fade-left")
+        .bg-color-30.tarjeta.p-4.h-100(data-aos="fade-left")
           p A continuación, se describen sus principales características:
           ul.lista-ul--color
             li.d-flex
@@ -39,7 +39,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .row.align-items-center.px-4.px-md-5.py-4.bg-color-29.tarjeta
+        .row.align-items-center.px-4.px-md-5.py-4.bg-color-31.tarjeta
           .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/temas/tema7/2.svg", style="max-width: 90px").mx-auto
           .col-lg
@@ -56,7 +56,7 @@
       .px-4.px-md-5.pb-md-3
         .row.justify-content-center
           .col-lg-10
-            .bg-color-16.mb-5(data-aos="fade-up")
+            .bg-color-23.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0
                   figure
@@ -96,7 +96,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-10
-        .row.align-items-center.px-4.px-md-5.py-4.bg-color-11.tarjeta
+        .row.align-items-center.px-4.px-md-5.py-4.bg-color-32.tarjeta
           .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/temas/tema7/5.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
@@ -107,7 +107,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-10
-        .row.align-items-center.px-4.px-md-5.py-4.bg-color-11.tarjeta
+        .row.align-items-center.px-4.px-md-5.py-4.bg-color-32.tarjeta
           .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/temas/tema7/5.svg", style="max-width: 90px").mx-auto
           .col-lg.text-white
@@ -128,7 +128,7 @@
         figure
           img(src="@/assets/curso/temas/tema7/6.png", data-aos="zoom-in", alt="Despiece de la bigotera a partir del eje de la capellada, logrando una pieza simétrica que se integrará armónicamente en el diseño del Oxford. ")
       .col-lg-7.order-1.mb-3.mb-lg-0
-        .bg-color-28.p-5.h-100(data-aos="fade-left")
+        .bg-color-30.p-5.h-100(data-aos="fade-left")
           p La pieza que varía es la bigotera, cuyo molde se elabora a partir del eje de la capellada. Para desarrollar el molde de la bigotera:
           ul.lista-ul--color
             li.d-flex
