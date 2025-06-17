@@ -1,1 +1,2 @@
-module.exports = 'Elaboración y comprobación de los moldes para calzado Oxford.'
+module.exports =
+  'Proceso de elaboración y comprobación de patrones para calzado Oxford'

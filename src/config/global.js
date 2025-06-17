@@ -1,6 +1,7 @@
 export default {
   global: {
-    Name: 'Elaboración y comprobación de los moldes para calzado Oxford',
+    Name:
+      'Proceso de elaboración y comprobación de patrones para calzado Oxford',
     Description:
       'El componente formativo enseña la elaboración y comprobación de los moldes para calzado Oxford, abarcando desde el enmascarado de la horma hasta la creación de moldes patrón y de corte. Se desarrollan variaciones como Oxford liso, con puntera, talón y bigotera, incluyendo la elaboración de maquetas para validar el ajuste y asegurar la calidad en la producción.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
